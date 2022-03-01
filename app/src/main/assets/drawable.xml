@@ -19,6 +19,23 @@
 	<item name="Fox's Magisk Module Manager" drawable="fox_magisk_module_manager" />
 	<item name="Catogram X" drawable="catogram_x" />
 	<item name="MonBell" drawable="monbell" />
+	<item name="Defit" drawable="defit"/>
+	<item name="Edenred" drawable="edenred"/>
+	<item name="Flyr" drawable="flyr"/>
+	<item name="Happy Cow" drawable="happy_cow"/>
+	<item name="Hellfest" drawable="hellfest"/>
+	<item name="Hurry" drawable="hurry"/>
+	<item name="Knockk" drawable="knockk"/>
+	<item name="Listy" drawable="listy"/>
+	<item name="MiGo" drawable="migo"/>
+	<item name="Momox" drawable="momox"/>
+	<item name="N2F" drawable="n2f"/>
+	<item name="Norwegian" drawable="norwegian"/>
+	<item name="Ouigo" drawable="ouigo"/>
+	<item name="SNCF Connect" drawable="sncf_connect"/>
+	<item name="Tandem alt" drawable="tandem_alt"/>
+	<item name="Velo'V" drawable="velov"/>
+	<item name="Visual Timer Minuterie" drawable="visual_timer_minuterie"/>
 
 	<category title="Google" />
 	<item name="Accessibility Scanner" drawable="google_accessibility_scanner" />
